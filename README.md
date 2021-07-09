@@ -8,4 +8,4 @@ These are the Hand Landmarks as defined by mediapipe :
 Hand Detection :-
 ![](https://github.com/rohankumarp/Hand-Detection/blob/main/Screenshot%202021-06-24%20141935.png)
 
-It prints a list containing the index of the landmark and its position wrt the x-y Plane
+
